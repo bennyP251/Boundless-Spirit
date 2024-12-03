@@ -12,6 +12,7 @@
     {"name":"obj_Transition","order":5,"path":"objects/obj_Transition/obj_Transition.yy",},
     {"name":"obj_Wall","order":1,"path":"objects/obj_Wall/obj_Wall.yy",},
     {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"GithubTest","order":2,"path":"rooms/GithubTest/GithubTest.yy",},
     {"name":"Test_Room","order":1,"path":"rooms/Test_Room/Test_Room.yy",},
     {"name":"Background_Light","order":4,"path":"sprites/Background_Light/Background_Light.yy",},
     {"name":"spr_daytime_building_blue","order":1,"path":"sprites/spr_daytime_building_blue/spr_daytime_building_blue.yy",},
