@@ -14,6 +14,7 @@
     {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"GithubTest","order":2,"path":"rooms/GithubTest/GithubTest.yy",},
     {"name":"Test_Room","order":1,"path":"rooms/Test_Room/Test_Room.yy",},
+    {"name":"SlideTransition","order":2,"path":"scripts/SlideTransition/SlideTransition.yy",},
     {"name":"Background_Light","order":4,"path":"sprites/Background_Light/Background_Light.yy",},
     {"name":"spr_daytime_building_blue","order":1,"path":"sprites/spr_daytime_building_blue/spr_daytime_building_blue.yy",},
     {"name":"spr_daytime_building_green","order":2,"path":"sprites/spr_daytime_building_green/spr_daytime_building_green.yy",},

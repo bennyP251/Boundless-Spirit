@@ -50,6 +50,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Test_Room","path":"rooms/Test_Room/Test_Room.yy",},},
     {"id":{"name":"general_functions","path":"scripts/general_functions/general_functions.yy",},},
+    {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
     {"id":{"name":"Background_Light","path":"sprites/Background_Light/Background_Light.yy",},},
     {"id":{"name":"spr_daytime_building_blue","path":"sprites/spr_daytime_building_blue/spr_daytime_building_blue.yy",},},
     {"id":{"name":"spr_daytime_building_green","path":"sprites/spr_daytime_building_green/spr_daytime_building_green.yy",},},
